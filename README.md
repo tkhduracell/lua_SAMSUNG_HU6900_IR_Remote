@@ -1,5 +1,5 @@
 # SAMSUNG HU6900-Series (IR Remote)
-Basic remote for the SAMSUNG UE55HU6905 TV over IR
+Basic remote for the SAMSUNG UE55HU6905 TV
 
 ## Features
 * Volume (up, down, mute)
@@ -11,7 +11,7 @@ Basic remote for the SAMSUNG UE55HU6905 TV over IR
 <img src="screen.png" width="200">
 
 ## Requirements
-* A USB-IR capable phone
+* A IR capable phone
 
 ## Support
 Developed and maintained by **tkhduracell**  
